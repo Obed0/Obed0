@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Mechatronic Engineer | AI developer | Cloud Architect | Robot designer
+
+🌱 I'm currently specializing on AI and Cloud
+👯 I’m looking to collaborate on Data analyst, AI and Cloud Architecture
+⚡ Fun fact: I love photography, painting and manual work.
+
 <!--
 **Obed0/Obed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
